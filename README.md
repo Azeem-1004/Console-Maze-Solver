@@ -20,12 +20,5 @@ The runners act completely autonomously without knowing the full map layout. The
 * **Libraries:** `<iostream>`, `<fstream>`, `<windows.h>`
 * **Core Concepts:** Object-Oriented Programming (OOP), File I/O, Win32 API Console Output
 
-## ⚙️ How to Run
-1. Clone this repository to your local Windows machine.
-2. Ensure the `maze.txt` layout file is in the same directory as your source code.
-3. Compile all `.cpp` files together. If using a terminal like PowerShell, navigate to the project folder and run:
-   ```powershell
-   g++ *.cpp -o main ; .\main
-
 👨‍💻 Author
 Azeem Raza
